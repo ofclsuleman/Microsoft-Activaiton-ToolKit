@@ -2,9 +2,9 @@
 A simple, user-friendly executable tool designed to run system activation commands with automatic Administrator privileges and a custom application icon.
 
 ## How to Use
-1. Download the latest `activate.exe` from the **Releases** section.
-2. Right-click the file and run it (or simply double-click, it will request admin rights automatically).
-3. Follow the on-screen terminal process.
+1. Download the latest `Microsoft Activation ToolKit.exe` from the **Releases** section.
+3. Right-click the file and run it (or simply double-click, it will request admin rights automatically).
+4. Follow the on-screen terminal process.
 
 ## Features
 HWID (Digital License): Permanently activate Windows.
